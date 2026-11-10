@@ -1,0 +1,8 @@
+dist/
+build/
+*.spec
+__pycache__/
+.venv/
+ffmpeg.exe
+ffprobe.exe
+Optimizado/
